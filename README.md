@@ -9,3 +9,12 @@
 
 - JavaFX / FXML
 - x86 Assembly
+- VHDL
+
+  #### Contact Me
+  
+<p align="left">
+  <a href="mailto:logciwaih@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
