@@ -11,7 +11,7 @@
 - x86 Assembly
 - VHDL
 
-  #### Contact Me
+#### Contact Me
   
 <p align="left">
   <a href="mailto:logciwaih@gmail.com">
