@@ -4,7 +4,7 @@
 #### Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,py,java,cs" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,py,java" />
 </p>
 
 - JavaFX / FXML
